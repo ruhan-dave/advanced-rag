@@ -1,5 +1,6 @@
 # Ignore everything by default
 *
+.env
 
 # Allow only specific file types
 !*.py
